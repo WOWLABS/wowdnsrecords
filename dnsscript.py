@@ -4,6 +4,7 @@
 #then the dnsReord is created using the input from the user and add domain(as12083.net) to the end of the hostname.
 #Last the prgram will loop until the user is finished entering their information then print
 #a list of all that was entered.
+#Alecia Sanders Oct.2017
 
 
 dnsPtr = []
